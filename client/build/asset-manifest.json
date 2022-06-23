@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b0a4014.chunk.css",
+    "main.js": "/static/js/main.1f2faec4.chunk.js",
+    "main.js.map": "/static/js/main.1f2faec4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20628b47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20628b47.js.map",
+    "static/css/2.7a049f8f.chunk.css": "/static/css/2.7a049f8f.chunk.css",
+    "static/js/2.e5f4e631.chunk.js": "/static/js/2.e5f4e631.chunk.js",
+    "static/js/2.e5f4e631.chunk.js.map": "/static/js/2.e5f4e631.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c934eb3ada9c18b9943e177eeb48dd81.js": "/precache-manifest.c934eb3ada9c18b9943e177eeb48dd81.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7a049f8f.chunk.css.map": "/static/css/2.7a049f8f.chunk.css.map",
+    "static/css/main.0b0a4014.chunk.css.map": "/static/css/main.0b0a4014.chunk.css.map",
+    "static/js/2.e5f4e631.chunk.js.LICENSE.txt": "/static/js/2.e5f4e631.chunk.js.LICENSE.txt",
+    "static/media/BuyBooKS.gif": "/static/media/BuyBooKS.ac008127.gif",
+    "static/media/book.jpg": "/static/media/book.ad849fdf.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/memoriesLogo.png": "/static/media/memoriesLogo.dc8bbfe3.png",
+    "static/media/memoriesText.png": "/static/media/memoriesText.2b89c5fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20628b47.js",
+    "static/css/2.7a049f8f.chunk.css",
+    "static/js/2.e5f4e631.chunk.js",
+    "static/css/main.0b0a4014.chunk.css",
+    "static/js/main.1f2faec4.chunk.js"
+  ]
+}
