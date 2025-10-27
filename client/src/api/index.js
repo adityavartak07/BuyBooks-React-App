@@ -1,6 +1,10 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://bookswale.herokuapp.com/' });
+// Use REACT_APP_API_URL when provided (useful for local dev or different environments).
+// Fallback to localhost:5000 for development if the env var isn't set.
+const baseURL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+
+const API = axios.create({ baseURL });
 
 API.interceptors.request.use((req) => {
   if (localStorage.getItem('profile')) {
